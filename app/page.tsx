@@ -6,7 +6,7 @@ export default function Home() {
     window.history.replaceState(
       {},
       "",
-      "/archive/nptel/ac/in/noc/Ecertificate/NPTEL23CS108S6343063072011001"
+      "ac/in/noc/Ecertificate/NPTEL23CS108S6343063072011001"
     );
   }, []);
 
